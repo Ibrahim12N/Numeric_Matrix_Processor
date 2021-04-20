@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Numeric Matrix Processor/task/build/
+/Numeric Matrix Processor/task/out/
+/Numeric Matrix Processor/task/out/production/classes/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/
+/Topics/Recursion/Fix the method to print strings in the reverse order/out/production/classes/
+/Topics/Recursion/N-th power/out/
+/Topics/Recursion/N-th power/out/production/classes/
+/Topics/Recursion/Number of decompositions/out/
+/Topics/Recursion/Number of decompositions/out/production/classes/
